@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Lenovo\\Documents\\Projects\\Project_GameEngine\\RoadToUE\\Source\\RoadToUE\\RoadToUE.Build.cs",
+		"C:\\Users\\Lenovo\\Documents\\Projects\\Project_GameEngine\\RoadToUE\\Source\\RoadToUE.Target.cs",
+		"C:\\Users\\Lenovo\\Documents\\Projects\\Project_GameEngine\\RoadToUE\\Source\\RoadToUEEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

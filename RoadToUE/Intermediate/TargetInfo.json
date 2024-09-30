@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RoadToUE",
+			"Path": "..\\Source\\RoadToUE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RoadToUEEditor",
+			"Path": "..\\Source\\RoadToUEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

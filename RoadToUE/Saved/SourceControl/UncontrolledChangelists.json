@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Level_One.umap",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_One.umap"
+			]
+		}
+	]
+}

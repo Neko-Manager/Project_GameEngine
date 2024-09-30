@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\documents\\projects\\project_gameengine\\roadtoue\\source\\roadtoue\\roadtoue.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lenovo\\documents\\projects\\project_gameengine\\roadtoue\\intermediate\\build\\win64\\x64\\roadtoueeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lenovo\\documents\\projects\\project_gameengine\\roadtoue\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\roadtoue\\definitions.roadtoue.h",
+            "c:\\users\\lenovo\\documents\\projects\\project_gameengine\\roadtoue\\source\\roadtoue\\roadtoue.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
