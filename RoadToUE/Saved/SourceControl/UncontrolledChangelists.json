@@ -7,7 +7,10 @@
 			"files": [
 				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Level_One.umap",
-				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_One.umap"
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_One.umap",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_Blueprint.umap",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_BP/Level_Blueprint.umap",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_BP/BP_Projectile.uasset"
 			]
 		}
 	]
