@@ -7,6 +7,9 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\Lenovo\Documents\Projects\Project_GameEngine\RoadToUE\Intermediate\Build\Win64\x64\RoadToUEEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Lenovo\Documents\Projects\Project_GameEngine\RoadToUE\Intermediate\Build\Win64\x64\UnrealEditor\Development\RoadToUE\MovingPlatform.gen.cpp.obj"
+"C:\Users\Lenovo\Documents\Projects\Project_GameEngine\RoadToUE\Intermediate\Build\Win64\x64\UnrealEditor\Development\RoadToUE\RoadToUE.init.gen.cpp.obj"
+"C:\Users\Lenovo\Documents\Projects\Project_GameEngine\RoadToUE\Intermediate\Build\Win64\x64\UnrealEditor\Development\RoadToUE\MovingPlatform.cpp.obj"
 "C:\Users\Lenovo\Documents\Projects\Project_GameEngine\RoadToUE\Intermediate\Build\Win64\x64\UnrealEditor\Development\RoadToUE\RoadToUE.cpp.obj"
 "C:\Users\Lenovo\Documents\Projects\Project_GameEngine\RoadToUE\Intermediate\Build\Win64\x64\UnrealEditor\Development\RoadToUE\Default.rc2.res"
 /OUT:"C:\Users\Lenovo\Documents\Projects\Project_GameEngine\RoadToUE\Intermediate\Build\Win64\x64\UnrealEditor\Development\RoadToUE\UnrealEditor-RoadToUE.lib"

@@ -10,7 +10,31 @@
 				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_One.umap",
 				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_Blueprint.umap",
 				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_BP/Level_Blueprint.umap",
-				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_BP/BP_Projectile.uasset"
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_BP/BP_Projectile.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/CPlus.umap",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/CPlus.umap",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy01_Hair_MAT.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy01_Hands_MAT.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy01_Head_Geo.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy01_Head_Geo_Anim.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy01_Head_Geo_Skeleton.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy01_Head_MAT.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy01_LowerBody_MAT.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy01_Scarf_MAT.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy01_Shoes_MAT.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy01_UpperBody_MAT.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy_Hair_diffuse.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy_Hands_diffuse.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy_Head_diffuse.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy_LowerBody_diffuse.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy_Scarf_diffuse.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy_Shoes_diffuse.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Boy_UpperBody_diffuse.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/FbxScene_Ty.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Mesh/Ty.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/BP_Character.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/Character.uasset",
+				"C:/Users/Lenovo/Documents/Projects/Project_GameEngine/RoadToUE/Content/Maps/Level_CPP/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]

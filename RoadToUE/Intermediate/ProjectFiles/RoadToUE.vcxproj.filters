@@ -11,6 +11,9 @@
     <None Include="..\..\Source\RoadToUEEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\SCK_Casual01.png" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +32,12 @@
     <Filter Include="Source\RoadToUE">
       <UniqueIdentifier>{FB8E26FE-ED7E-3D6B-9344-23505D203AC9}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\RoadToUE\MovingPlatform.cpp">
+      <Filter>Source\RoadToUE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RoadToUE\MovingPlatform.h">
+      <Filter>Source\RoadToUE</Filter>
+    </ClInclude>
     <None Include="..\..\Source\RoadToUE\RoadToUE.Build.cs">
       <Filter>Source\RoadToUE</Filter>
     </None>
